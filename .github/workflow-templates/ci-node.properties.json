@@ -1,0 +1,9 @@
+{
+    "name": "Node.js CI",
+    "description": "Node CI workflow template.",
+    "iconName": "example-icon",
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile*"
+    ]
+}
