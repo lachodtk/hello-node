@@ -7,7 +7,7 @@ const app = express()
 
 // define the first route
 app.get("/", function (req, res) {
-  res.send("<h1>Hello Node!!!</h1>")
+  res.send("<h1>Hello NodeJS!!!</h1>")
 })
 
 module.exports = app;
